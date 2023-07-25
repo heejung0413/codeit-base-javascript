@@ -1,4 +1,6 @@
 <h1> 프로그래밍 시작하기 in Javascript </h1>
+- javascipt언어의 기본 용어인 parameter, return, function 을 주제로 학습하였습니다.
+- <a href="https://www.codeit.kr/topics/intro-to-web-publishing">코드잇 교육컨텐츠</a> 를 보고 제작하였습니다. </br> 
 
 ## 수료증 ✨
 
